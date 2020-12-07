@@ -12,9 +12,10 @@
         </div>
       </div>
       <div class="header-overlay"></div>
-      <div class="header-content">
-        <h1>Hello Everyone </h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <div class="header-content text-md-center">
+        <h1>Welcome Everyone</h1>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Id temporibus perferendis necessitatibus numquam amet impedit explicabo? Debitis quasi ullam aperiam!</p>
+        <a class="btn">Find Out More</a>
       </div>
      </div>
     <div id="about" class="bg-warning p-4"> </div>
@@ -37,19 +38,6 @@
     </div>
   </header>
 
-  <section class="section section-a">
-    <div class="container">
-      <h2>Section A</h2>
-      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Unde, impedit amet minima iste autem cumque et maiores blanditiis doloribus aut dolorum quaerat non est voluptatum, tempore ut dolorem voluptas quod quae accusantium, ex inventore ducimus. Beatae mollitia exercitationem, quam similique, consectetur ratione reprehenderit delectus neque eligendi facere soluta dolor ducimus!</p>
-    </div>
-  </section>
-
-  <section class="section section-b">
-    <div class="container">
-      <h2>Section B</h2>
-      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Unde, impedit amet minima iste autem cumque et maiores blanditiis doloribus aut dolorum quaerat non est voluptatum, tempore ut dolorem voluptas quod quae accusantium, ex inventore ducimus. Beatae mollitia exercitationem, quam similique, consectetur ratione reprehenderit delectus neque eligendi facere soluta dolor ducimus!</p>
-    </div>
-  </section>
 </div>
 </template>
 
